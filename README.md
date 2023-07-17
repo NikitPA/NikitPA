@@ -10,9 +10,9 @@
 
 - 🔭 I’m working on pet projects and try to read more books on this topic.
 
-- 🌱 I’m currently learning at the MPEI and at Yandex.Practicum courses.
+- 🌱 I’m currently learning at the MPEI and engaged in self-education.
 
-- :eyes: I am currently looking for a job as a Java developer.
+- :eyes: I work at Digital Economy League as a Java Developer. 
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
